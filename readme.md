@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ASHFI HUSSAIN</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src = " https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fdesktop-source-code-and-wallpaper-by-computer-language-with-coding-picture-id1026458098&tbnid=ozy1sMDeXVmKCM&vet=12ahUKEwib4uPepu-EAxUQ7TgGHaL-BY0QMyghegUIARCjAQ..i&imgrefurl=https%3A%2F%2Fwww.everypixel.com%2Fimage-6260813680385906339&docid=G57Z9aXhOElewM&w=1024&h=678&q=animated%20technology%20picture%20for%20developer&ved=2ahUKEwib4uPepu-EAxUQ7TgGHaL-BY0QMyghegUIARCjAQ" alt= " " >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfi111&label=Profile%20views&color=0e75b6&style=flat" alt="ashfi111" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfi111" alt="ashfi111" /></a> </p>
